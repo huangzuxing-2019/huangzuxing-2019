@@ -18,7 +18,7 @@ public class HelloWorld {
 		//println 输出并换行      print 输出不换行
 		System.out.println("HelloWorld!");
 		System.out.println("Hello");
-		System.out.print("world");
+		System.out.print("黄祖兴使用git");
 	}
 	
 
